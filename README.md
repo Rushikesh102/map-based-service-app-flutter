@@ -17,9 +17,10 @@ With this project, we aim to revolutionize the way service bookings are conducte
 ![image](https://github.com/Rushikesh102/map-based-service-app-flutter/assets/109498501/689dc307-cd6a-4d2f-8dc1-20dcb933820c)
 
 ### Technician App:
-![image](https://github.com/Rushikesh102/map-based-service-app-flutter/assets/109498501/c5b1c832-e8ad-459c-aea5-1db46d41cee0)
-![image](https://github.com/Rushikesh102/map-based-service-app-flutter/assets/109498501/1be684ed-63cb-47aa-9eba-10cbb7d94e72)
-![image](https://github.com/Rushikesh102/map-based-service-app-flutter/assets/109498501/d6893329-2f9f-43c9-ad26-33afc6835db2)
+![image](https://github.com/Rushikesh102/map-based-service-app-flutter/assets/109498501/cdf58464-3a41-46ae-b2d5-47a055fcfa0b)
+![image](https://github.com/Rushikesh102/map-based-service-app-flutter/assets/109498501/d34380d2-4727-4136-8600-12f35e5ed2e7)
+![image](https://github.com/Rushikesh102/map-based-service-app-flutter/assets/109498501/c29c4236-807b-47c6-ade1-c38914470591)
+
 
 
 
